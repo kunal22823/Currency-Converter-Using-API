@@ -7,3 +7,6 @@ This is a simple **Tic-Tac-Toe** game built using **HTML**, **CSS**, and **JavaS
 - Simple, interactive 3x3 grid
 - Reset button to start a new game
 - Display of the winner once the game is over
+
+## **Languages used**
+- Frontend: HTML, CSS, JavaScript
